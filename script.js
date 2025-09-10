@@ -340,11 +340,11 @@ const projectsData = {
         year: '2024',
         area: '15.000m²',
         images: [
-            'images/Contenção Tubarão/Contencao-tubarao-001.png',
-            'images/Contenção Tubarão/Contencao-tubarao-002.png',
-            'images/Contenção Tubarão/Contencao-tubarao-003.png',
-            'images/Contenção Tubarão/Contencao-tubarao-004.png',
-            'images/Contenção Tubarão/Contencao-tubarao-005.png'
+            'images/Contencao-Tubarao/Contencao-tubarao-001.png',
+            'images/Contencao-Tubarao/Contencao-tubarao-002.png',
+            'images/Contencao-Tubarao/Contencao-tubarao-003.png',
+            'images/Contencao-Tubarao/Contencao-tubarao-004.png',
+            'images/Contencao-Tubarao/Contencao-tubarao-005.png'
         ]
     },
     'serra-geral': {
@@ -775,4 +775,5 @@ if (typeof modal !== 'undefined' && modal) {
         }
     }, { passive: false });
 }
+
 
